@@ -1,6 +1,8 @@
 # note: I like to keep all my projects, all my files actually, local. it helps me deal with brain clutter (im working on it)
 # for now this repository exists for my application to the fatima fellowship, i hope i get the opportunity to work on more challenges
 
+# i will always be grateful to Dr. Ioanna Giorgi for the wonderful experience of scrating the surface of my own true capabilities <3
+
 # Ioanna
 
 Ioanna is an interactive AI assistant that uses computer vision, speech recognition, and natural language processing to engage in human-like conversations. It recognizes faces, detects emotions, and adapts its responses based on user interactions and emotional cues.
@@ -57,5 +59,3 @@ Ioanna is an interactive AI assistant that uses computer vision, speech recognit
 ## Note
 
 Ensure your system's microphone and speakers are working correctly for the best experience. This project uses various APIs and may incur costs if used extensively.
-
-i will always be grateful to Dr. Ioanna Giorgi for the wonderful experience of scrating the surface of my own true capabilities
